@@ -16,11 +16,12 @@
 </p>
 
 ![](https://raw.githubusercontent.com/icey-zhang/icey-zhang/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/MaHDiaLaGaB/MaHDiaLaGaB/blob/output/github-contribution-grid-snake-dark.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://github.com/MaHDiaLaGaB/MaHDiaLaGaB/blob/output/github-contribution-grid-snake-dark.svg)" />
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://github.com/MaHDiaLaGaB/MaHDiaLaGaB/blob/output/github-contribution-grid-snake-dark.svg)" />
+  <img alt="github-snake" src="[github-snake.svg](https://github.com/MaHDiaLaGaB/MaHDiaLaGaB/blob/output/github-contribution-grid-snake-dark.svg)" />
 </picture>
 
 
