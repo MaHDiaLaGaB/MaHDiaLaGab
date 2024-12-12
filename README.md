@@ -6,6 +6,9 @@
 - 💬 Ask me about Physics
 - 😄 welcome to my ⭐[StartUp](https://hypervizion.ly)⭐
 
+</br>
+
+![Snake animation](https://github.com/MaHDiaLaGaB/MaHDiaLaGaB/blob/output/github-contribution-grid-snake.svg)
 <!--
 </br>
 
