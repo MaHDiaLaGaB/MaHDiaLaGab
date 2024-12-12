@@ -39,7 +39,6 @@
  </br>
 </br>
  -->
-  ![Snake animation](https://github.com/MaHDiaLaGaB/MaHDiaLaGaB/blob/output/github-contribution-grid-snake.svg)
  
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icey-zhang&theme=github)
